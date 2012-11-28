@@ -1,0 +1,19 @@
+{
+  "name": "nodeurls",
+  "version": "0.0.1",
+  "description": "nodeurls ========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wpreul/nodeurls.git"
+  },
+  "author": "Van Nguyen <thegoleffect@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "hapi": "~0.9.1"
+  }
+}
